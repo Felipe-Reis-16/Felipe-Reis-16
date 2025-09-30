@@ -1,36 +1,33 @@
-<!-- Cabeçalho com efeito máquina de escrever -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Portfólio+de+Palestras;Registro+do+meu+aprendizado+no+Ensino+Médio" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=004c4c&center=true&vCenter=true&width=800&lines=Portfólio+de+Palestras;Registro+do+meu+aprendizado+no+Ensino+Médio" alt="Typing animation" />
 </h1>
 
 ---
 
-## 🎤 Sobre este Portfólio
+## Sobre este Portfólio
 Este repositório é meu registro pessoal das **palestras que participei ao longo do Ensino Médio**.  
 Aqui você encontrará:
-- 📅 Datas das palestras  
-- 👨‍🏫 Nome dos palestrantes  
-- 📝 Temas abordados  
-- 📸 Fotos como registro da minha presença  
+- Datas das palestras  
+- Nome dos palestrantes  
+- Temas abordados  
+- Fotos como registro da minha presença  
 
 ---
 
-# 📚 Palestras 2024
+# Palestras 2024
 
 <details>
-  <summary><strong>📅 Abril</strong></summary>
+  <summary><strong>Abril</strong></summary>
   <br>
 
   **08/04/2024 — Criatividade e Inovação: Um Desafio Constante**  
-  *Palestrante:* Eduardo Von (Itix)  
-  *Local:* Presencial na sede  
+  *Palestrante:* Eduardo Von (Itix) — Presencial na sede  
 
-  ![Foto da palestra](fotos/2024/08-04-criatividade.jpg)  
-
+  ![Foto](fotos/2024/08-04-criatividade.jpg)  
 </details>
 
 <details>
-  <summary><strong>📅 Maio</strong></summary>
+  <summary><strong>Maio</strong></summary>
   <br>
 
   **23/05/2024 — As possibilidades da IA no mercado de trabalho**  
@@ -38,29 +35,26 @@ Aqui você encontrará:
 
   **27/05/2024 — Liderança e Gestão 3.0**  
   *Palestrante:* Victor Palencia (Eduzz) — Online  
-
 </details>
 
 <details>
-  <summary><strong>📅 Junho</strong></summary>
+  <summary><strong>Junho</strong></summary>
   <br>
 
   **18/06/2024 — Explorando Homelabs: Como criar seu próprio ambiente de desenvolvimento pode transformar sua carreira em TI**  
   *Palestrante:* Edmilson (Itix) — Presencial na sede  
-
 </details>
 
 <details>
-  <summary><strong>📅 Julho</strong></summary>
+  <summary><strong>Julho</strong></summary>
   <br>
 
   **31/07/2024 — Hacker do bem e a segurança digital no dia a dia**  
   *Palestrante:* Luiz Milagres (Eduzz) — Online  
-
 </details>
 
 <details>
-  <summary><strong>📅 Agosto</strong></summary>
+  <summary><strong>Agosto</strong></summary>
   <br>
 
   **27/08/2024 — Você é uma pessoa organizada?**  
@@ -68,11 +62,10 @@ Aqui você encontrará:
 
   **28/08/2024 — Fluxo de Operações Comercial**  
   *Palestrantes:* André Lopes e Tamiris Marciano (Uno) — Online  
-
 </details>
 
 <details>
-  <summary><strong>📅 Setembro</strong></summary>
+  <summary><strong>Setembro</strong></summary>
   <br>
 
   **05/09/2024 — Quais as tendências da área de TI com a virada da IA Generativa e outras tecnologias**  
@@ -86,11 +79,10 @@ Aqui você encontrará:
 
   **24/09/2024 — Capricho: skill cada vez mais raro no mercado**  
   *Palestrante:* Luiz Milagres (Eduzz) — Online  
-
 </details>
 
 <details>
-  <summary><strong>📅 Outubro</strong></summary>
+  <summary><strong>Outubro</strong></summary>
   <br>
 
   **09/10/2024 — Desenvolvimento Low Code**  
@@ -98,11 +90,10 @@ Aqui você encontrará:
 
   **17/10/2024 — Preparando-se para o amanhã: da ETEC/FATEC para o mundo**  
   *Palestrante:* Flávia Freitas (Fundação Iochpe) — YouTube  
-
 </details>
 
 <details>
-  <summary><strong>📅 Novembro</strong></summary>
+  <summary><strong>Novembro</strong></summary>
   <br>
 
   **04/11/2024 — A revolução da Web3 e a propriedade digital**  
@@ -110,15 +101,14 @@ Aqui você encontrará:
 
   **05/11/2024 — A revolução da Web3 e a propriedade digital**  
   *Palestrante:* Caio Matos (Fundação Iochpe) — Presencial  
-
 </details>
 
 ---
 
-# 📚 Palestras 2025
+# Palestras 2025
 
 <details>
-  <summary><strong>📅 Abril</strong></summary>
+  <summary><strong>Abril</strong></summary>
   <br>
 
   **10/04/2025 — Os Desafios do primeiro emprego em TI**  
@@ -133,11 +123,10 @@ Aqui você encontrará:
 
   **23/04/2025 — LinkedIn e Marca Pessoal**  
   *Palestrante:* Priscila (Eduzz) — Online pelo Teams  
-
 </details>
 
 <details>
-  <summary><strong>📅 Maio</strong></summary>
+  <summary><strong>Maio</strong></summary>
   <br>
 
   **12/05/2025 — Inteligência artificial**  
@@ -145,11 +134,10 @@ Aqui você encontrará:
 
   **13/05/2025 — Empreendedorismo e Inovação na Tecnologia**  
   *Palestrantes:* Renata Paques e Luciana Ogusco (Eduzz) — Online pelo Teams  
-
 </details>
 
 <details>
-  <summary><strong>📅 Agosto</strong></summary>
+  <summary><strong>Agosto</strong></summary>
   <br>
 
   **20/08/2025 — Produtividade e Organização**  
@@ -157,23 +145,27 @@ Aqui você encontrará:
 
   **27/08/2025 — Treinamento de Banco de Dados**  
   *Palestrantes:* Andreia, Raissa e Rafael (Itix) — Presencial na Fatec  
-
 </details>
 
 <details>
-  <summary><strong>📅 Setembro</strong></summary>
+  <summary><strong>Setembro</strong></summary>
   <br>
 
   **03/09/2025 — Segurança da Informação e Cibersegurança**  
   *Palestrantes:* Renata Paques e Guilherme Mattos (Eduzz) — Online pelo Teams  
-
 </details>
 
 ---
 
-## 🌐 Contato
+## Contato
 <p align="center">
-  <a href="https://github.com/Felipe-Reis-16" target="_blank">💻 GitHub</a> |
-  <a href="mailto:felipe.reis77@etec.sp.gov.br">📧 Email Escolar</a> |
-  <a href="mailto:reis.felipeaugusto@gmail.com">📧 Email Pessoal</a>
+  <a href="https://github.com/Felipe-Reis-16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-004C4C?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:felipe.reis77@etec.sp.gov.br" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Escolar-006666?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:reis.felipeaugusto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Pessoal-00A3A3?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
