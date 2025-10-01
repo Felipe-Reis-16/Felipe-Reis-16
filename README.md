@@ -127,12 +127,13 @@ Aqui você encontrará:
   *Palestrante:* Tiago Baldo (Eduzz) — Online (via teams)  
 
   **16/04/2025 — Palestra da Tegra**
+  
   *Palestrantes:*
   - Matheus Dias: *Troca/Início de Carreira*  
   - Tamirez: *Estagiário buscando efetivação*  
   - Matheus Jorge: *Utilizando IA no dia a dia do trabalho*  
   - Raissa: *Gestão de Suporte*
-  <br>
+
   *Local:* Presencial na Fatec  
 
   **23/04/2025 — LinkedIn e Marca Pessoal**  
@@ -146,7 +147,7 @@ Aqui você encontrará:
   **12/05/2025 — Inteligência artificial**  
   *Palestrante:* Prof. Dilenardo Piva Júnior — Presencial na Fatec
   <br>
-  ![Foto](./img/2025/12-05-25.jpeg)
+  <img src="./img/2025/12-05-25.jpeg" width="250" height="350" alt="Palestra do dia 12/05/2025">
 
   **13/05/2025 — Empreendedorismo e Inovação na Tecnologia**  
   *Palestrantes:* Renata Paques e Luciana Ogusco (Eduzz) — Online (via teams)  
@@ -162,7 +163,7 @@ Aqui você encontrará:
   **27/08/2025 — Treinamento de Banco de Dados**  
   *Palestrantes:* Andreia, Raissa e Rafael (Itix) — Presencial na Fatec
   <br>
-  ![Foto](./img/2025/27-08-25.jpeg)
+  <img src="./img/2025/27-08-25.jpeg" width="350" alt="Palestra do dia 27/08/2025">
 </details>
 
 <details>
@@ -172,20 +173,18 @@ Aqui você encontrará:
   **03/09/2025 — Segurança da Informação e Cibersegurança**  
   *Palestrantes:* Renata Paques e Guilherme Mattos (Eduzz) — Online (via teams)
   <br>
-  ![Foto](./img/2025/03-09-25.jpeg)
+  <img src="./img/2025/03-09-25.jpeg" width="350" alt="Palestra do dia 03/09/2025">
 </details>
 
 ---
 
 ## Contato
-<p align="center">
-  <a href="https://github.com/Felipe-Reis-16" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-004C4C?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://felipe.reis77@etec.sp.gov.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Escolar-006666?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://reis.felipeaugusto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Pessoal-00A3A3?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/Felipe-Reis-16" target="_blank">
+   <img src="https://img.shields.io/badge/GitHub-004C4C?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://felipe.reis77@etec.sp.gov.br" target="_blank">
+   <img src="https://img.shields.io/badge/Email%20Escolar-006666?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://reis.felipeaugusto@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Email%20Pessoal-00A3A3?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
