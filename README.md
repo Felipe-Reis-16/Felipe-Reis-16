@@ -176,6 +176,16 @@ Aqui você encontrará:
   <img src="./img/2025/03-09-25.jpeg" width="350" alt="Palestra do dia 03/09/2025">
 </details>
 
+<details>
+  <summary><strong>Outubro</strong></summary>
+  <br>
+
+  **30/10/2025 — Desenvolvimento Mobile: Criando Aplicativos do Zero**  
+  *Palestrantes:* Lucas de Assis Cefali Almeida (Eduzz) — Online (via teams)
+  <br>
+  <img src="./img/2025/30-10-25.jpeg" width="350" alt="Palestra do dia 30/10/2025">
+</details>
+
 ---
 
 ## Contato
